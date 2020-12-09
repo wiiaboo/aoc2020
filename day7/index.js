@@ -70,7 +70,7 @@ function partTwo(input, name) {
     console.log(`Bags contained in "${name}":`, countBagsInside(parsed, name));
 }
 
-// console.log('=== Day ${AOC_DAY}, Part two ===')
+console.log('=== Day ${AOC_DAY}, Part two ===')
 partTwo('testinput', 'shiny gold')
 partTwo('testinput2', 'shiny gold')
 partTwo('input', 'shiny gold')
